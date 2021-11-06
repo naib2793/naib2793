@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naib2793
 - 👀 I’m interested in learning in Applications Development
-- 🌱 I’m currently learning Python (Flask, Django, Pandas, PyGame), Java, Javascript, Typescript (Node and Angular)
+- 🌱 I’m currently learning Python (Flask, Django, Pandas, PyGame), Java, Javascript, Typescript (Nest, Angular)
 - 💞️ I’m looking to collaborate on cool projects for Beginners
 - 📫 How to reach me: naib2793@hotmail.com
 
